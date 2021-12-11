@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "63651853731",
+    "firebase_url": "https://appcolegio-fb532-default-rtdb.firebaseio.com",
+    "project_id": "appcolegio-fb532",
+    "storage_bucket": "appcolegio-fb532.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63651853731:android:d9f4d925ddf76644405616",
+        "android_client_info": {
+          "package_name": "com.practicasmmgg.colegioapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63651853731-u3gn0741rss7uem1nljg6fqq1r6ub0e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdFirEIrMw_ir9FJNn0Nr5YPYgvXaeES4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63651853731-u3gn0741rss7uem1nljg6fqq1r6ub0e0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
