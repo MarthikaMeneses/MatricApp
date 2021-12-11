@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">La alegría de educar</string>
+    <string-array name="spOpcionesEstudiante">
+        <item>Guardar</item>
+        <item>Buscar</item>
+        <item>Actualizar</item>
+    </string-array>
+</resources>
